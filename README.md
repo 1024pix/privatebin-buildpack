@@ -1,1 +1,2 @@
-# privatebin-buildpack
+Scalingo Buildpack for Privatebin
+
