@@ -9,8 +9,8 @@
     "customManagers": [
         {
             "customType": "regex",
-            "fileMatch": [
-                "^bin/version$"
+            "managerFilePatterns": [
+                "/^bin/version$/"
             ],
             "matchStrings": [
                 "^(?<currentValue>\\S+)\\n?$"
